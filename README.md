@@ -37,7 +37,7 @@ Before running the project, ensure you have the following installed:
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/Abid0987/FluxiMind
+git clone https://github.com/Abid0987/FluxiMind.git
 cd deepseek-ai-project
 ```
 
